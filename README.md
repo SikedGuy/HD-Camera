@@ -2,6 +2,8 @@
 
 A mod that allows players to adjust the resolution of images taken by Rexmeck's Imageboard mod. The resolution can be set anywhere from **256x256** to **4320x4320**, giving players greater flexibility in capturing high-quality screenshots.
 
+![Before And After](BeforeandAfter.png)
+
 ## Features
 - Adjust image resolution dynamically within the supported range.
 - Enhance screenshot quality for better detail and clarity.
