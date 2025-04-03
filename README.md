@@ -26,7 +26,7 @@ A mod that allows players to adjust the resolution of images taken by [Rexmeck's
 3. Click apply
 4. Capture images at your preferred resolution.
 5. Then use ImageBoardSaver to save the image.
-- Potato = 128,
+- Potato = 128x128,
 Small = 256x256,
 Medium = 512x512,
 Large = 1024x1024,
