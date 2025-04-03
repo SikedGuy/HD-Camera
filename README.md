@@ -1,6 +1,6 @@
 # HD Camera
 
-A mod that allows players to adjust the resolution of images taken by Rexmeck's Imageboard mod. The resolution can be set anywhere from **256x256** to **4320x4320**, giving players greater flexibility in capturing high-quality screenshots.
+A mod that allows players to adjust the resolution of images taken by [Rexmeck's Imageboard mod](https://mod.io/g/bonelab/m/imageboard). The resolution can be set anywhere from **256x256** to **4320x4320**, giving players greater flexibility in capturing high-quality screenshots.
 
 ![Before And After](images/BeforeandAfter.png)
 
@@ -10,8 +10,8 @@ A mod that allows players to adjust the resolution of images taken by Rexmeck's 
 - Seamless integration with Rexmeck's Imageboard mod.
 
 ## Requirements
-- **Rexmeck's Imageboard mod** (Required)
-- **ImageBoardSaver** (Required)
+- [**Rexmeck's Imageboard mod**](https://mod.io/g/bonelab/m/imageboard) (Required)
+- [**ImageBoardSaver**](https://thunderstore.io/c/bonelab/p/Rexmeck/ImageBoardSaver/) (Required)
 
 ## Installation
 1. Ensure you have **MelonLoader** installed for modding Bonelab.
