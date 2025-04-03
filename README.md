@@ -15,8 +15,8 @@ A mod that allows players to adjust the resolution of images taken by [Rexmeck's
 
 ## Installation
 1. Ensure you have [**MelonLoader 6.4**](https://melonwiki.xyz/#/?id=requirements) installed for modding Bonelab.
-2. Download and install [**Rexmeck's Imageboard mod**](https://mod.io/g/bonelab/m/imageboard) and [**ImageBoardSaver**](https://thunderstore.io/c/bonelab/p/Rexmeck/ImageBoardSaver/)* (both required).
-3. Download the <u>**Latest Version**<u> of HD Camera <u>(Don't download any old version on thunderstore, idk why its adding those)<u>
+2. Download and install [**Rexmeck's Imageboard mod**](https://mod.io/g/bonelab/m/imageboard) and [**ImageBoardSaver**](https://thunderstore.io/c/bonelab/p/Rexmeck/ImageBoardSaver/) (both required).
+3. Download the **Latest Version** of HD Camera (Don't download any old version on thunderstore, idk why its adding those)
 4. Place the `HDCamera.dll` file into the `Mods` folder inside your Bonelab directory.
 5. Launch Bonelab and configure the resolution settings in the mod menu.
 
@@ -50,3 +50,6 @@ Insane = 4320x4320
 
 ## Support
 If you encounter any issues or have feature requests feel free to reach out to us! https://discord.com/invite/Z5RkmWPSdX
+
+
+<!-- … -->
