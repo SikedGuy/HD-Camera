@@ -23,6 +23,11 @@ A mod that allows players to adjust the resolution of images taken by Rexmeck's 
 3. Click apply
 4. Capture images at your preferred resolution.
 5. Then use ImageBoardSaver to save the image.
+Small = 256x256,
+Medium = 512x512,
+Large = 1024x1024,
+Ultra = 2160x2160,
+Insane = 4320x4320
 (**Taking an image with a high resolution may cause your game to temporarily freeze**)
 
 ## Known Bugs
