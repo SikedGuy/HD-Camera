@@ -1,9 +1,0 @@
-{
-    "name": "HD_Camera",
-    "version_number": "1.1.8",
-    "website_url": "https://github.com/SikedGuy/HD-Camera",
-    "description": "Lets you take HD photos with Rexmeck's Imageboard mod",
-    "dependencies": [
-
-    ]
-}
