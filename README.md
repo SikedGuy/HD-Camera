@@ -27,7 +27,7 @@ A mod that allows players to adjust the resolution of images taken by Rexmeck's 
 
 ## Known Bugs
 - **Camera Screen Blackout:** Adjusting the image resolution causes the screen on the camera to turn black. However, the images still save correctly at the set resolution.
-- **Dark Images** Images taken are slightly dark (someone please tell us how to fix this omg)
+- **Dark Images;** Images taken are slightly dark (someone please tell us how to fix this omg)
 
 ## Planned Fixes & Improvements
 - Fix camera screen blackout issue.
