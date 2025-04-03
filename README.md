@@ -35,9 +35,11 @@ Insane = 4320x4320
 
 ## Known Bugs
 - **Camera Screen Blackout:** Adjusting the image resolution causes the screen on the camera to turn black. However, the images still save correctly at the set resolution.
+- **Syncing Issues:** When pasting an image with a resolustion higher than 256x256, other players wont see the image on the image board
 
 ## Planned Fixes & Improvements
 - Fix camera screen blackout issue.
+- Fix Syncing Issues
 
 ## Credits
 - **Man2787** – Developer
