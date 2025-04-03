@@ -31,6 +31,7 @@ A mod that allows players to adjust the resolution of images taken by Rexmeck's 
 
 ## Planned Fixes & Improvements
 - Fix camera screen blackout issue.
+- Fix dark images
 
 ## Credits
 - **Man2787** – Developer
