@@ -1,4 +1,7 @@
-**DON'T DOWNLOAD ANY OLD VERSIONS OF THE MOD, IDK WHY THUNDERSTORE IS ADDING THE VERSIONS TAB**
+# DON'T DOWNLOAD ANY OLD VERSIONS OF THE MOD, IDK WHY THUNDERSTORE IS ADDING THE VERSIONS TAB
+
+**v1.3.1**
+* Updated readme
 
 **v1.3.0**
 * Added thing to spawn a image board and camera from the mod menu
