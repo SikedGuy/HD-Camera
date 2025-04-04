@@ -4,6 +4,8 @@ A mod that allows players to adjust the resolution of images taken by [Rexmeck's
 
 ![Before And After](https://github.com/SikedGuy/HD-Camera/blob/main/images/BeforeandAfter.png?raw=true)
 
+### If you are one Quest 2 or 3 you may have problems pasting your photo onto an Image Board when taking photos at a resolution higher than the default value
+
 ## Features
 - Adjust image resolution dynamically within the supported range.
 - Enhance screenshot quality for better detail and clarity.
