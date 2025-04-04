@@ -21,7 +21,7 @@ A mod that allows players to adjust the resolution of images taken by [Rexmeck's
 2. Download and install [**Rexmeck's Imageboard mod**](https://mod.io/g/bonelab/m/imageboard) and [**ImageBoardSaver**](https://thunderstore.io/c/bonelab/p/Rexmeck/ImageBoardSaver/) (both required).
 3. Download the **Latest Version** of HD Camera (Don't download any old version on thunderstore, idk why its adding those)
 4. Place the `HDCamera.dll` file into the `Mods` folder inside your Bonelab directory.
-5. Launch Bonelab and configure the resolution settings in the mod menu.
+5. Launch Bonelab and configure the settings in the mod menu.
 
 ## Usage
 1. Open the Imageboard mod interface.
@@ -34,15 +34,12 @@ Small = 256x256,
 Medium = 512x512,
 Large = 1024x1024,
 Ultra = 2160x2160,
-Insane = 4320x4320
+Insane = 4320x4320 (**Images with a resolution of 4320x4320 will not sync in fusion servers**)
 
 (**Pasting an image with a high resolution onto a image board may cause your game to temporarily freeze**)
 
 ## Known Bugs
-- **Syncing Issues:** When pasting an image with a resolustion higher than 256x256, other players wont see the image on the image board
-
-## Planned Fixes & Improvements
-- Fix Syncing Issues
+- **Syncing Issues:** When pasting an image with a resolustion higher than 4320x4320, other players wont see the image on the image board
 
 ## Credits
 - **Man2787** – Developer
