@@ -1,5 +1,8 @@
 # DON'T DOWNLOAD ANY OLD VERSIONS OF THE MOD, IDK WHY THUNDERSTORE IS ADDING THE VERSIONS TAB
 
+**v1.4.0**
+* Found out that syncing does work. Images with a resolution of 4320x4320 will not sync in fusion servers
+
 **v1.3.1**
 * Updated readme
 
